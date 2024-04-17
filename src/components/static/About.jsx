@@ -19,7 +19,7 @@ const About = () => {
             </div>
           </div>
 
-          <div className="w-full md:w-1/3 px-4 md:px-0">
+          <div className="w-full md:w-1/3 pt-1 md:px-0 px-4">
             <p className="text-2xl mb-4 text-center md:text-left">
               Welcome to our Crypto Trading Platform. We are a team of
               experienced crypto enthusiasts who are dedicated to providing you

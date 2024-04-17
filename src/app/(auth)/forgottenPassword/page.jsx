@@ -4,7 +4,7 @@ import React from "react";
 const page = () => {
   return (
     <div>
-      <div className="hero min-h-screen bg-base-200">
+      <div className="hero min-h-screen bg-base-200 px-3">
         <div className=" ">
           <div className="text-center lg:text-left">
             <h1 className="text-5xl font-bold text-center">
